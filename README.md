@@ -5,9 +5,9 @@ This project contains automated test cases implemented with Cypress on a ReactJS
 The fundamentals of cypress have been implemented:
 - describe blocks, it blocks, beforeEach method
 - cy commands like visit, click, get, contains, should, wait, type, location, within, its etc
-- multi-page testing
+- multi-page testing, Page Object Model (POM)
 - many different assertions, custom cy commands, fixtures
-- aliases, intercepts
+- aliases, intercepts, reports
 - component tests
 
 
@@ -15,3 +15,4 @@ The fundamentals of cypress have been implemented:
 
 ![Screenshot1](screenshots/Screenshot_1.PNG) ![Screenshot2](screenshots/Screenshot_2.PNG)
 ![Screenshot3](screenshots/Screenshot_3.PNG) ![Screenshot4](screenshots/Screenshot_4.PNG)
+![Screenshot5](screenshots/Screenshot_5.PNG)
